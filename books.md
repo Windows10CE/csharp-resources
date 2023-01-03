@@ -12,6 +12,9 @@ Game-ified approach to learning C#, a fairly unique way to approach the learning
 
 A very large focus on small projects, and encourages trying problems before it gives you the answers. If you like exercises, this is the book I would pick. Highly encourage you to grab the paperback of this one and keep a pencil handy. Also has a bunch of supplimental resources on its GitHub page.
 
+### C# Programming Yellow Book
+Not going to link this one, avoid at all costs. It may be free, but the content is not worth your time.
+
 ## Intermediate
 
 ### [C# In Depth](https://csharpindepth.com/)
